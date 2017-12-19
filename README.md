@@ -2,7 +2,7 @@
 Plotting outputs of Control-FREEC for targeting sequencing data
 
 
-    Example: Rscript BAF.R -i inputfolder -o outputfolder -b bedfile -r -f
+    Example: Rscript plot.R -i inputfolder -o outputfolder -b bedfile -r -f
     Usage: BAF.R [-[-help|h]] [-[-input|i] <character>] [-[-ratioGraph|r]] [-[-BAFGraph|f]] [-[-output|o] <character>] [-[-bed|b] <character>]
     -h|--help          help manual
     -i|--input         filepath for *.BAF.txt
